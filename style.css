@@ -1,0 +1,10 @@
+img{    
+            width:300px;
+            border-radius: 10px;
+        }   
+    .image-gallery{
+        
+        display:grid;
+        grid-template-columns: 300px 300px;
+        grid-gap: 20px;
+    }
